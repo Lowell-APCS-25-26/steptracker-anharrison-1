@@ -17,9 +17,7 @@ public class StepTracker {
         totalDays++;
         if (stepCount >= minSteps) {
             activeDays++;
-        }
-        
-        
+        }      //commit!!!!//
     }
     int activeDays() {
         return activeDays;
